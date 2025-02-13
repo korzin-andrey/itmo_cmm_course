@@ -1,1 +1,1 @@
-# itmo_hmm_course
+# ITMO Continuous mathematical models course
